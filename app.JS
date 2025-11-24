@@ -24,7 +24,7 @@ let isProcessing = false;
 let isRateLimited = false;
 
 // --- أدخل هنا مفتاح OpenAI API ---
-const API_KEY = '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';
+const API_KEY = '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';
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
